@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.button {
+  color: white;
+  background-color: #007bff;
+  border-style: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+span {
+  color: #c20a72;
+}
